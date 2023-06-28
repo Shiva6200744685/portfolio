@@ -1,0 +1,17 @@
+.container{
+    color:paleturquoise;
+    border: 34px;
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+    background-color:slateblue;
+    border-radius: 35%;
+
+}
+.box{
+    font-size: x-large;
+    background-color: darkgoldenrod;
+    border-radius:10%;
+
+
+}
